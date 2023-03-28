@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
 //import Portfolio from './components/Portfolio';
-import Cards from './components/Cards';
+// import Cards from './components/Cards';
 import Contact from './components/Contact';
 import AboutMe from './components/AboutMe';
 import Resume from './components/Resume';
@@ -14,7 +14,7 @@ function App() {
       <Header />
       <Navbar />
       <AboutMe />
-      <Cards />
+      {/* <Cards /> */}
       <Portfolio />
       <Contact />
       <Resume />

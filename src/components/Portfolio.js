@@ -24,7 +24,7 @@ function Portfolio() {
         <div style={styles.card}>
         <div style={styles.heading}>Portfolio</div>
         <div style={styles.content}>
-        <Cards />
+        {/* <Cards /> */}
         </div>
       </div>
     );
